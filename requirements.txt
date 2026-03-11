@@ -1,1 +1,8 @@
-streamlit pandas openpyxl openai rapidfuzz
+streamlit
+pandas
+openpyxl
+openai
+rapidfuzz
+numpy
+diskcache
+tenacity
